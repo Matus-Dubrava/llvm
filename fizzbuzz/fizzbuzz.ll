@@ -1,8 +1,3 @@
-@.str1 = private unnamed_addr constant [13 x i8] c"hello world\0A\00", align 1
-@.str2 = private unnamed_addr constant [13 x i8] c"anoher hell\0A\00", align 1
-@.str3 = private unnamed_addr constant [18 x i8] c"values are equal\0A\00", align 1
-@.str4 = private unnamed_addr constant [22 x i8] c"values not are equal\0A\00", align 1
-@.str5 = private unnamed_addr constant [19 x i8] c"current value: %d\0A\00", align 1
 @.fizz_str = private unnamed_addr constant [10 x i8] c"%d: fizz\0A\00", align 1
 @.buzz_str = private unnamed_addr constant [10 x i8] c"%d: buzz\0A\00", align 1
 @.fizzbuzz_str = private unnamed_addr constant [14 x i8] c"%d: fizzbuzz\0A\00", align 1
